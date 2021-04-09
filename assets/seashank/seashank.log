@@ -9,7 +9,7 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		Vert Color Precision:  3
 		Mat Weight Precision:  2
 		Keep Z-up r-handed  :  no
-		Texture directory   :  D:\Documents\blender files\
+		Texture directory   :  D:\Documents\blender files\test\
 			processing texture aristea_wreck_4k
 	Python World class constructor completed
 	WARNING: The following camera not visible in scene thus ignored: Camera
@@ -1068,7 +1068,7 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  116
-	processing begun of mesh:  sea animated
+	processing begun of mesh:  water
 		processing begun of material:  Water
 		num positions      :  736
 		num normals        :  736
@@ -1079,6 +1079,25 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		num triangles      :  1386
 	processing begun of node:  Empty
 	WARNING: The following object (type - CURVE) is not currently exportable thus ignored: BezierCircle
+	processing begun of mesh:  water.001
+		processing begun of material:  Water
+		registered as also a user of material:  Water
+		num positions      :  736
+		num normals        :  736
+		num tangents       :  0
+		num uvs            :  1472
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1386
+	processing begun of mesh:  Plane.083
+		WARNING: No materials have been assigned: 
+		num positions      :  484
+		num normals        :  484
+		num tangents       :  0
+		num uvs            :  968
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  882
 	processing begun of mesh:  Plane
 		processing begun of material:  Green leaf 02
 		num positions      :  24
@@ -2322,6 +2341,123 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  118
+	processing begun of mesh:  Cube.020
+		processing begun of material:  Fish skin
+		num positions      :  315
+		num normals        :  315
+		num tangents       :  0
+		num uvs            :  630
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  112
+	processing begun of mesh:  Cube.089
+		processing begun of material:  Fish fin
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.090
+		processing begun of material:  Fish fin
+		registered as also a user of material:  Fish fin
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.091
+		processing begun of material:  Fish fin
+		registered as also a user of material:  Fish fin
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Sphere
+		processing begun of material:  Fish eye
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  Sphere.001
+		processing begun of material:  Fish eye
+		registered as also a user of material:  Fish eye
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  Cube.092
+		processing begun of material:  Fish skin
+		registered as also a user of material:  Fish skin
+		num positions      :  315
+		num normals        :  315
+		num tangents       :  0
+		num uvs            :  630
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  112
+	processing begun of mesh:  Cube.093
+		processing begun of material:  Fish fin
+		registered as also a user of material:  Fish fin
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.094
+		processing begun of material:  Fish fin
+		registered as also a user of material:  Fish fin
+		num positions      :  31
+		num normals        :  31
+		num tangents       :  0
+		num uvs            :  62
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cube.095
+		processing begun of material:  Fish fin
+		registered as also a user of material:  Fish fin
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Sphere.002
+		processing begun of material:  Fish eye
+		registered as also a user of material:  Fish eye
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  Sphere.003
+		processing begun of material:  Fish eye
+		registered as also a user of material:  Fish eye
+		num positions      :  99
+		num normals        :  99
+		num tangents       :  0
+		num uvs            :  198
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
 	processing begun of light (DIRECTIONAL):  Sun
 	processing begun of light (DIRECTIONAL):  Sun.001
 	processing begun of light (DIRECTIONAL):  Sun.002
@@ -2432,7 +2568,9 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 	writing mesh:  Cylinder.022
 	writing mesh:  Cylinder.023
 	writing mesh:  Cylinder.024
-	writing mesh:  sea animated
+	writing mesh:  water
+	writing mesh:  water.001
+	writing mesh:  Plane.083
 	writing mesh:  Plane
 	writing mesh:  Plane.001
 	writing mesh:  Plane.002
@@ -2557,6 +2695,18 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 	writing mesh:  Icosphere.030
 	writing mesh:  Icosphere.031
 	writing mesh:  Icosphere.032
+	writing mesh:  Cube.020
+	writing mesh:  Cube.089
+	writing mesh:  Cube.090
+	writing mesh:  Cube.091
+	writing mesh:  Sphere
+	writing mesh:  Sphere.001
+	writing mesh:  Cube.092
+	writing mesh:  Cube.093
+	writing mesh:  Cube.094
+	writing mesh:  Cube.095
+	writing mesh:  Sphere.002
+	writing mesh:  Sphere.003
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 3.2547 secs
+elapsed time:  0 min, 3.9062 secs
