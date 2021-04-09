@@ -1,0 +1,120 @@
+Exporter version: 2.80.1, Blender version: 2.90.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Documents\blender files\buckets\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  BezierCurve.002
+		processing begun of material:  plastic white
+		Custom split normals with tangents being used
+		num positions      :  299
+		num normals        :  299
+		num tangents       :  1196
+		num uvs            :  598
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  528
+	processing begun of mesh:  BezierCurve.003
+		processing begun of material:  plastic white
+		registered as also a user of material:  plastic white
+		Custom split normals with tangents being used
+		num positions      :  299
+		num normals        :  299
+		num tangents       :  1196
+		num uvs            :  598
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  528
+	processing begun of mesh:  Buckets
+		processing begun of material:  Transparent
+		num positions      :  29
+		num normals        :  29
+		num tangents       :  0
+		num uvs            :  58
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  Cylinder.032
+		processing begun of material:  plastic blue
+		Custom split normals with tangents being used
+		num positions      :  432
+		num normals        :  432
+		num tangents       :  1728
+		num uvs            :  864
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  172
+	processing begun of mesh:  Cylinder.033
+		processing begun of material:  plastic yellow
+		Custom split normals with tangents being used
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  Cylinder.034
+		processing begun of material:  plastic yellow
+		registered as also a user of material:  plastic yellow
+		Custom split normals with tangents being used
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  Cylinder.035
+		processing begun of material:  plastic red
+		Custom split normals with tangents being used
+		num positions      :  432
+		num normals        :  432
+		num tangents       :  1728
+		num uvs            :  864
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  172
+	processing begun of mesh:  Cylinder.036
+		processing begun of material:  plastic black
+		Custom split normals with tangents being used
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of mesh:  Cylinder.037
+		processing begun of material:  plastic black
+		registered as also a user of material:  plastic black
+		Custom split normals with tangents being used
+		num positions      :  48
+		num normals        :  48
+		num tangents       :  192
+		num uvs            :  96
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  28
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  BezierCurve.002
+	writing mesh:  BezierCurve.003
+	writing mesh:  Buckets
+	writing mesh:  Cylinder.032
+	writing mesh:  Cylinder.033
+	writing mesh:  Cylinder.034
+	writing mesh:  Cylinder.035
+	writing mesh:  Cylinder.036
+	writing mesh:  Cylinder.037
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.716 secs
