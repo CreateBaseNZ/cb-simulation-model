@@ -11,28 +11,28 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		Keep Z-up r-handed  :  no
 		Texture directory   :  D:\Documents\blender files\buckets\
 	Python World class constructor completed
-	processing begun of camera (UniversalCamera):  Camera
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
 	processing begun of mesh:  BezierCurve.002
 		processing begun of material:  plastic white
 		Custom split normals with tangents being used
-		num positions      :  299
-		num normals        :  299
-		num tangents       :  1196
-		num uvs            :  598
+		num positions      :  65
+		num normals        :  65
+		num tangents       :  260
+		num uvs            :  130
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  528
+		num triangles      :  98
 	processing begun of mesh:  BezierCurve.003
 		processing begun of material:  plastic white
 		registered as also a user of material:  plastic white
 		Custom split normals with tangents being used
-		num positions      :  299
-		num normals        :  299
-		num tangents       :  1196
-		num uvs            :  598
+		num positions      :  60
+		num normals        :  60
+		num tangents       :  240
+		num uvs            :  120
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  528
+		num triangles      :  88
 	processing begun of mesh:  Buckets
 		processing begun of material:  Transparent
 		num positions      :  29
@@ -104,7 +104,6 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  28
-	processing begun of light (POINT):  Light
 ========= Writing of JSON file started =========
 	writing mesh:  BezierCurve.002
 	writing mesh:  BezierCurve.003
@@ -117,4 +116,4 @@ Exporter version: 2.80.1, Blender version: 2.90.1
 	writing mesh:  Cylinder.037
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.716 secs
+elapsed time:  0 min, 0.12 secs
